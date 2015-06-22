@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yak@llamasoft.co.uk",
+    "longName": "C64 SPRITES",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "C64 SPRITES",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3f4341e2-bf58-42fa-98b6-ebabf1308ef3",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
